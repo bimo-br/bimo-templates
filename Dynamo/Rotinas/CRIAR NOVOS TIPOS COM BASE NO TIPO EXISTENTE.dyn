@@ -158,7 +158,7 @@
       "Inputs": [],
       "Outputs": [
         {
-          "Id": "45fb6a58edad49c592e66b5968dd7689",
+          "Id": "3b0bfb6470a04a33b992f0a1039326a8",
           "Name": "",
           "Description": "Valor da expressão na linha 1",
           "UsingDefaultValue": false,
@@ -169,7 +169,7 @@
       ],
       "Replication": "Disabled",
       "Description": "Permite que o código DesignScript seja criado diretamente",
-      "Code": "[\n    9000,\n    12000,\n    18000,\n    24000,\n    30000,\n    36000,\n    42000,\n    48000,\n    60000\n];"
+      "Code": "[\n    9000,\n    12000,\n    18000,\n    24000,\n    30000,\n    36000,\n    45000,\n    48000,\n    50000,\n    56000,\n    60000\n];"
     },
     {
       "ConcreteType": "Dynamo.Graph.Nodes.CodeBlockNodeModel, DynamoCore",
@@ -771,9 +771,9 @@
       "IsHidden": "False"
     },
     {
-      "Start": "45fb6a58edad49c592e66b5968dd7689",
+      "Start": "3b0bfb6470a04a33b992f0a1039326a8",
       "End": "837507e937744fc2b100d5d3bb0bd2f7",
-      "Id": "35a8993c80204bc59faca9518beef545",
+      "Id": "ae579aa059ba4e278aac584b3a93d9a4",
       "IsHidden": "False"
     },
     {
@@ -863,7 +863,7 @@
   ],
   "Dependencies": [],
   "NodeLibraryDependencies": [],
-  "EnableLegacyPolyCurveBehavior": null,
+  "EnableLegacyPolyCurveBehavior": true,
   "Thumbnail": "",
   "GraphDocumentationURL": null,
   "ExtensionWorkspaceData": [
@@ -1131,7 +1131,7 @@
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 2290.246198801694,
-        "InitialHeight": 181.00000000000006,
+        "InitialHeight": 145.0,
         "TextblockHeight": 78.0,
         "Background": "#FFB0C4DE"
       },
@@ -1154,7 +1154,7 @@
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 829.5662683597736,
-        "InitialHeight": 341.69329822371515,
+        "InitialHeight": 324.69329822371515,
         "TextblockHeight": 49.0,
         "Background": "#FFD3D3D3"
       },
@@ -1173,11 +1173,11 @@
         "Left": -1860.4732432821927,
         "Top": 3389.270268269317,
         "Width": 556.6521843629866,
-        "Height": 348.0,
+        "Height": 380.0,
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 3448.270268269317,
-        "InitialHeight": 335.0,
+        "InitialHeight": 253.8391601453377,
         "TextblockHeight": 49.0,
         "Background": "#FFB0C4DE"
       },
@@ -1203,7 +1203,7 @@
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 2889.1809207725437,
-        "InitialHeight": 341.6932982237154,
+        "InitialHeight": 739.2752147427523,
         "TextblockHeight": 78.0,
         "Background": "#FFD3D3D3"
       },
@@ -1225,7 +1225,7 @@
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 4485.653831901841,
-        "InitialHeight": 192.0,
+        "InitialHeight": 145.0,
         "TextblockHeight": 49.0,
         "Background": "#FFD3D3D3"
       },
@@ -1251,7 +1251,7 @@
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 1636.9871915472431,
-        "InitialHeight": 590.4261975677061,
+        "InitialHeight": 728.3988776283359,
         "TextblockHeight": 49.0,
         "Background": "#FFD3D3D3"
       },
@@ -1273,13 +1273,13 @@
         "FontSize": 24.0,
         "GroupStyleId": "00000000-0000-0000-0000-000000000000",
         "InitialTop": 2919.8493743131116,
-        "InitialHeight": 192.0,
+        "InitialHeight": 145.0,
         "TextblockHeight": 49.0,
         "Background": "#FFD3D3D3"
       }
     ],
-    "X": 302.3170791165408,
-    "Y": -197.8413412887058,
-    "Zoom": 0.15688067186502364
+    "X": 202.1876541743051,
+    "Y": -202.18079342803208,
+    "Zoom": 0.11267364300716642
   }
 }
